@@ -1,7 +1,7 @@
 
 body {
 
-	background: no-repeat center/120% url("images/fondo.jpg");
+	background-image: url(/images/fondo.jpg);
 	display: flex;
 	justify-content: center;
 	align-items: center;
